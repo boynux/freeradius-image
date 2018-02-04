@@ -1,6 +1,6 @@
 FROM alpine:3.4
 
-ENV FREERADIUS_VERSION=v3.1.x
+ENV FREERADIUS_VERSION=v3.0.x
 
 RUN \
   apk --update add  \
